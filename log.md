@@ -13,3 +13,11 @@
 **Thoughts:** I understand the basics of JSON but I'm still confused about how to implement APIs.
 
 **Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+
+### Day 2: January 10, 2017 
+
+**Today's Progress**: I continued to work on the random quote generator project. I refreshed my memory of Javascript key object pairs by reading chapter 4 of Eloquent Javascript and watching some YouTube videos.
+
+**Thoughts:** I still need to  refresh more of my Javascript knowledge.
+
+**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
