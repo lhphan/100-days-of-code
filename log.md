@@ -21,3 +21,11 @@
 **Thoughts:** I still need to  refresh more of my Javascript knowledge.
 
 **Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+
+### Day 3: January 11, 2017 
+
+**Today's Progress**: I continued to work on the random quote generator project. I watched a [YouTube video](https://www.youtube.com/watch?v=rJesac0_Ftw) on JSON and AJAX, which was very helpful. I was able to implement the JS code to display a random quote from the array of JS objects.
+
+**Thoughts:** I am happy with today's progress.
+
+**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
