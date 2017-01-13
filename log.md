@@ -29,3 +29,11 @@
 **Thoughts:** I am happy with today's progress.
 
 **Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+
+### Day 4: January 12, 2017 
+
+**Today's Progress**: I continued to work on the random quote generator project. I cleaned up my JS code and read the [Twitter API](https://dev.twitter.com/web/tweet-button/parameters) in order to tweet the random quote.
+
+**Thoughts:** I am happy with today's progress.
+
+**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
