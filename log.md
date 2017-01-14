@@ -37,3 +37,11 @@
 **Thoughts:** I am happy with today's progress.
 
 **Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+
+### Day 5: January 13, 2017 
+
+**Today's Progress**: I am more than halfway done with the random quote generator project. Yay! I added a JSON file on gitHub with a list of quotes and authors. Then I also read the [documentation for .getJSON()](http://api.jquery.com/jquery.getjson/) and watched some YouTube videos on how to use JSON with jQuery.
+
+**Thoughts:** I learned a lot today.
+
+**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
