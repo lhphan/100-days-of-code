@@ -53,3 +53,11 @@
 **Thoughts:** Today was frustrating because of the debugging (it turned out that I forgot to capitalize a letter).
 
 **Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+
+### Day 7: January 15, 2017 
+
+**Today's Progress**: I completed the random quote generator.
+
+**Thoughts:** Yay, I finished day 7!
+
+**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
