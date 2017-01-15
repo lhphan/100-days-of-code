@@ -45,3 +45,11 @@
 **Thoughts:** I learned a lot today.
 
 **Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+
+### Day 6: January 14, 2017 
+
+**Today's Progress**: I improved the generator by preventing it from showing the same quote twice in a row. I also changed the placement of the Tweet button and the "get new quote" button.
+
+**Thoughts:** Today was frustrating because of the debugging (it turned out that I forgot to capitalize a letter).
+
+**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
