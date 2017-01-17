@@ -69,3 +69,11 @@
 **Thoughts:**  I'm annoyed.
 
 **Link to work**: [Weather App](https://codepen.io/lhphan/full/bgBGqy/)
+
+### Day 9: January 17, 2017 
+
+**Today's Progress**: I continued to work on the weather app. I found a new weather API that supports HTTPS and was able to use it successfully on the app.  
+
+**Thoughts:**  I am happy with today's progress.
+
+**Link to work**: [Weather App](https://codepen.io/lhphan/full/bgBGqy/)
