@@ -61,3 +61,11 @@
 **Thoughts:** Yay, I finished day 7!
 
 **Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+
+### Day 8: January 16, 2017 
+
+**Today's Progress**: I started on FreeCodeCamp's weather app project. I hit a roadblock because of the API's incompatibility with HTTPS.  
+
+**Thoughts:**  I'm annoyed.
+
+**Link to work**: [Weather App](https://codepen.io/lhphan/full/bgBGqy/)
