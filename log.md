@@ -77,3 +77,11 @@
 **Thoughts:**  I am happy with today's progress.
 
 **Link to work**: [Weather App](https://codepen.io/lhphan/full/bgBGqy/)
+
+### Day 10: January 18, 2017 
+
+**Today's Progress**: I worked on the temperature toggle button and set up the foundation for the CSS. 
+
+**Thoughts:**  I am happy with today's progress.
+
+**Link to work**: [Weather App](https://codepen.io/lhphan/full/bgBGqy/)
