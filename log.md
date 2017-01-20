@@ -85,3 +85,11 @@
 **Thoughts:**  I am happy with today's progress.
 
 **Link to work**: [Weather App](https://codepen.io/lhphan/full/bgBGqy/)
+
+### Day 11: January 19, 2017 
+
+**Today's Progress**: I finished the weather app and started doing research on the Wikipedia viewer. 
+
+**Thoughts:**  At a later date, I might go back and improve the weather app's UI.
+
+**Link to work**: [Weather App](https://codepen.io/lhphan/full/bgBGqy/)
