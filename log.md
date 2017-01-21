@@ -93,3 +93,11 @@
 **Thoughts:**  At a later date, I might go back and improve the weather app's UI.
 
 **Link to work**: [Weather App](https://codepen.io/lhphan/full/bgBGqy/)
+
+### Day 12: January 20, 2017 
+
+**Today's Progress**: I worked on the Wikipedia project from FreeCodeCamp. I used Bootstrap to set up the basic layout. Then I read up on the Wikipedia API documents.
+
+**Thoughts:**  I really wanted to skip work today but I'm glad I didn't.
+
+**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
