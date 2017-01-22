@@ -101,3 +101,11 @@
 **Thoughts:**  I really wanted to skip work today but I'm glad I didn't.
 
 **Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+
+### Day 13: January 21, 2017 
+
+**Today's Progress**: I continued to research the Wikipedia API functionality and managed to write code that retrieves a random Wikipedia article URL.
+
+**Thoughts:**  I've realized how difficult it is to read documentation for an API that has so much functionality. Google is a life saver.
+
+**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
