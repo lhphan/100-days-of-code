@@ -109,3 +109,11 @@
 **Thoughts:**  I've realized how difficult it is to read documentation for an API that has so much functionality. Google is a life saver.
 
 **Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+
+### Day 14: January 22, 2017 
+
+**Today's Progress**: I completed the portion of the app that retrieves a random Wikipedia article. 
+
+**Thoughts:**  The MediaWiki API is kinda confusing.
+
+**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
