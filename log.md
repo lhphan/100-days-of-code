@@ -117,3 +117,11 @@
 **Thoughts:**  The MediaWiki API is kinda confusing.
 
 **Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+
+### Day 15: January 23, 2017 
+
+**Today's Progress**: I worked on the code that displays the search results.  
+
+**Thoughts:**  The search doesn't handle non-alphnumeric characters. I need to find a fix for that.
+
+**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
