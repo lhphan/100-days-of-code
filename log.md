@@ -125,3 +125,11 @@
 **Thoughts:**  The search doesn't handle non-alphnumeric characters. I need to find a fix for that.
 
 **Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+
+### Day 16: January 24, 2017 
+
+**Today's Progress**: I finished the Wikipedia search app and then I reviewed the requirements for the Twitch app.  
+
+**Thoughts:**  I'm not really sure what Twitch is.
+
+**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
