@@ -12,7 +12,7 @@
 
 **Thoughts:** I understand the basics of JSON but I'm still confused about how to implement APIs.
 
-**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+**Link to work**: [Random Quote Generator](https://codepen.io/lhphan/pen/apvMEx)
 
 ### Day 2: January 10, 2017 
 
@@ -20,7 +20,7 @@
 
 **Thoughts:** I still need to  refresh more of my Javascript knowledge.
 
-**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+**Link to work**: [Random Quote Generator](https://codepen.io/lhphan/pen/apvMEx)
 
 ### Day 3: January 11, 2017 
 
@@ -28,7 +28,7 @@
 
 **Thoughts:** I am happy with today's progress.
 
-**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+**Link to work**: [Random Quote Generator](https://codepen.io/lhphan/pen/apvMEx)
 
 ### Day 4: January 12, 2017 
 
@@ -36,7 +36,7 @@
 
 **Thoughts:** I am happy with today's progress.
 
-**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+**Link to work**: [Random Quote Generator](https://codepen.io/lhphan/pen/apvMEx)
 
 ### Day 5: January 13, 2017 
 
@@ -44,7 +44,7 @@
 
 **Thoughts:** I learned a lot today.
 
-**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+**Link to work**: [Random Quote Generator](https://codepen.io/lhphan/pen/apvMEx)
 
 ### Day 6: January 14, 2017 
 
@@ -52,7 +52,7 @@
 
 **Thoughts:** Today was frustrating because of the debugging (it turned out that I forgot to capitalize a letter).
 
-**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+**Link to work**: [Random Quote Generator](https://codepen.io/lhphan/pen/apvMEx)
 
 ### Day 7: January 15, 2017 
 
@@ -60,7 +60,7 @@
 
 **Thoughts:** Yay, I finished day 7!
 
-**Link to work**: [Random Quote Generator](http://codepen.io/lhphan/pen/apvMEx)
+**Link to work**: [Random Quote Generator](https://codepen.io/lhphan/pen/apvMEx)
 
 ### Day 8: January 16, 2017 
 
@@ -100,7 +100,7 @@
 
 **Thoughts:**  I really wanted to skip work today but I'm glad I didn't.
 
-**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+**Link to work**: [Wikipedia App](https://codepen.io/lhphan/full/NdpQGm/)
 
 ### Day 13: January 21, 2017 
 
@@ -108,7 +108,7 @@
 
 **Thoughts:**  I've realized how difficult it is to read documentation for an API that has so much functionality. Google is a life saver.
 
-**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+**Link to work**: [Wikipedia App](https://codepen.io/lhphan/full/NdpQGm/)
 
 ### Day 14: January 22, 2017 
 
@@ -116,7 +116,7 @@
 
 **Thoughts:**  The MediaWiki API is kinda confusing.
 
-**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+**Link to work**: [Wikipedia App](https://codepen.io/lhphan/full/NdpQGm/)
 
 ### Day 15: January 23, 2017 
 
@@ -124,7 +124,7 @@
 
 **Thoughts:**  The search doesn't handle non-alphnumeric characters. I need to find a fix for that.
 
-**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+**Link to work**: [Wikipedia App](https://codepen.io/lhphan/full/NdpQGm/)
 
 ### Day 16: January 24, 2017 
 
@@ -132,4 +132,5 @@
 
 **Thoughts:**  I'm not really sure what Twitch is.
 
-**Link to work**: [Wikipedia App](http://codepen.io/lhphan/full/NdpQGm/)
+**Link to work**: [Wikipedia App](https://codepen.io/lhphan/full/NdpQGm/)
+
