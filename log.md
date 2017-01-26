@@ -134,3 +134,10 @@
 
 **Link to work**: [Wikipedia App](https://codepen.io/lhphan/full/NdpQGm/)
 
+### Day 17: January 25, 2017 
+
+**Today's Progress**: I got the .getJSON call to work. Then I coded some of the HTML and CSS.  
+
+**Thoughts:**  I'm tired.
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
