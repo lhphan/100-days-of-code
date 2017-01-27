@@ -141,3 +141,11 @@
 **Thoughts:**  I'm tired.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 18: January 26, 2017 
+
+**Today's Progress**: I worked on the code to retrieve the JSON data. There were a lot of bugs.   
+
+**Thoughts:**  I'm tired of debugging.
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
