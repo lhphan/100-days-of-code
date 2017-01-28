@@ -149,3 +149,11 @@
 **Thoughts:**  I'm tired of debugging.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 19: January 27, 2017 
+
+**Today's Progress**: I worked on debugging the app. Then I switched gears and learned about Chrome accessibility tools.  
+
+**Thoughts:**  :(
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
