@@ -157,3 +157,11 @@
 **Thoughts:**  :(
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 20: January 28, 2017 
+
+**Today's Progress**: I decided to use a different approach but it's still not working.   
+
+**Thoughts:**  :-(
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
