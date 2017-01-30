@@ -165,3 +165,11 @@
 **Thoughts:**  :-(
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 21: January 29, 2017 
+
+**Today's Progress**: I found the error in my code! I also figured out why the array wasn't outputting in order (I have to change .getJSON to .ajax).   
+
+**Thoughts:**  I was very close to quitting but I' glad I didn't.
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
