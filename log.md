@@ -173,3 +173,11 @@
 **Thoughts:**  I was very close to quitting but I' glad I didn't.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 22: January 30, 2017 
+
+**Today's Progress**: My code broke again when I tried to fix the asynchronous issue. I read about promises but didn't fully understand it. Will look into it further tomorrow.    
+
+**Thoughts:**  :-/
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
