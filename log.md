@@ -170,7 +170,7 @@
 
 **Today's Progress**: I found the error in my code! I also figured out why the array wasn't outputting in order (I have to change .getJSON to .ajax).   
 
-**Thoughts:**  I was very close to quitting but I' glad I didn't.
+**Thoughts:**  I was very close to quitting but I'm glad I didn't.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
 
@@ -179,5 +179,13 @@
 **Today's Progress**: My code broke again when I tried to fix the asynchronous issue. I read about promises but didn't fully understand it. Will look into it further tomorrow.    
 
 **Thoughts:**  :-/
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 23: January 31, 2017 
+
+**Today's Progress**: I'm still having trouble with calling the JSON information synchronously.    
+
+**Thoughts:**  :-(
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
