@@ -168,7 +168,7 @@
 
 ### Day 21: January 29, 2017 
 
-**Today's Progress**: I found the error in my code! I also figured out why the array wasn't outputting in order (I have to change .getJSON to .ajax).   
+**Today's Progress**: I found the error in my code! I also figured out why the array wasn't outputting in order (I have to change .getJSON to .ajax)  
 
 **Thoughts:**  I was very close to quitting but I'm glad I didn't.
 
@@ -187,5 +187,13 @@
 **Today's Progress**: I'm still having trouble with calling the JSON information synchronously.    
 
 **Thoughts:**  :-(
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 24: February 1, 2017 
+
+**Today's Progress**: Decided to deal with the synchronous issue later. Coded the category filter functionality.    
+
+**Thoughts:** I'm so ready to do something else.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
