@@ -197,3 +197,11 @@
 **Thoughts:** I'm so ready to do something else.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 25: February 2, 2017 
+
+**Today's Progress**: Worked on the user interface.
+
+**Thoughts:** I'm undecided on how I want it to look.
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
