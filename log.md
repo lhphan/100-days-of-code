@@ -205,3 +205,11 @@
 **Thoughts:** I'm undecided on how I want it to look.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 26: February 3, 2017 
+
+**Today's Progress**: Continued to work on the user interface.
+
+**Thoughts:** I'm not really happy with how it looks.
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
