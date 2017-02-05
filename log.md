@@ -213,3 +213,11 @@
 **Thoughts:** I'm not really happy with how it looks.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 27: February 4, 2017 
+
+**Today's Progress**: Continued to work on the user interface by adjusting the visual hierarchy.
+
+**Thoughts:** I'm not hating it.
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
