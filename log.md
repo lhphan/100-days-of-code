@@ -229,3 +229,9 @@
 **Thoughts:** I'm glad to be doing something new.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 29: February 6, 2017 
+
+**Today's Progress**: Completed the Diff Two Arrays problem. Now working on the Roman Numeral Converter.
+
+**Thoughts:** My brain hurts.
