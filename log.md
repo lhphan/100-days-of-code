@@ -221,3 +221,11 @@
 **Thoughts:** I'm not hating it.
 
 **Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
+
+### Day 28: February 5, 2017 
+
+**Today's Progress**: I finished the Twitch app and moved on to intermediate algorithm scripting.
+
+**Thoughts:** I'm glad to be doing something new.
+
+**Link to work**: [Twitch.tv App](https://codepen.io/lhphan/full/LxjqQd)
