@@ -235,3 +235,9 @@
 **Today's Progress**: Completed the Diff Two Arrays problem. Now working on the Roman Numeral Converter.
 
 **Thoughts:** My brain hurts.
+
+### Day 30: February 7, 2017 
+
+**Today's Progress**: Continued to work on the Roman Numeral Converter.
+
+**Thoughts:** :-/
