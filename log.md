@@ -241,3 +241,9 @@
 **Today's Progress**: Continued to work on the Roman Numeral Converter.
 
 **Thoughts:** :-/
+
+### Day 31: February 8, 2017 
+
+**Today's Progress**: Decided to participate in the [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). I spent the day setting up my environment and watching the lecture.
+
+**Thoughts:** >.<
