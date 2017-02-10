@@ -247,3 +247,9 @@
 **Today's Progress**: Decided to participate in the [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). I spent the day setting up my environment and watching the lecture.
 
 **Thoughts:** >.<
+
+### Day 32: February 9, 2017 
+
+**Today's Progress**: Was finally able to install pip. It turned out that there was a conflicting version of Python on myt computer.
+
+**Thoughts:** I feel like I didn't get a lot done.
