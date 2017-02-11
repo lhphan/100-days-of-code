@@ -253,3 +253,9 @@
 **Today's Progress**: Was finally able to install pip. It turned out that there was a conflicting version of Python on myt computer.
 
 **Thoughts:** I feel like I didn't get a lot done.
+
+### Day 33: February 10, 2017 
+
+**Today's Progress**: I learned about Flask and how it works.
+
+**Thoughts:** I'm still confused about some things.
