@@ -259,3 +259,9 @@
 **Today's Progress**: I learned about Flask and how it works.
 
 **Thoughts:** I'm still confused about some things.
+
+### Day 34: February 11, 2017 
+
+**Today's Progress**: I worked on homework 2 of [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
+
+**Thoughts:** I kind of understand things!
