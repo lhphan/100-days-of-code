@@ -265,3 +265,9 @@
 **Today's Progress**: I worked on homework 2 of [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
 
 **Thoughts:** I kind of understand things!
+
+### Day 35: February 12, 2017 
+
+**Today's Progress**: I finished assignment 2 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
+
+**Thoughts:** Today was a good day.
