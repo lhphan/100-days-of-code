@@ -271,3 +271,9 @@
 **Today's Progress**: I finished assignment 2 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
 
 **Thoughts:** Today was a good day.
+
+### Day 36: February 13, 2017 
+
+**Today's Progress**: I worked on the roman numeral converter on freeCodeCamp.
+
+**Thoughts:** I feel that I'm close to a solution.
