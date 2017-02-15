@@ -277,3 +277,9 @@
 **Today's Progress**: I worked on the roman numeral converter on freeCodeCamp.
 
 **Thoughts:** I feel that I'm close to a solution.
+
+### Day 37: February 14, 2017 
+
+**Today's Progress**: I worked on assignment 3 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp), which included work with databases. Still have some errors to work through.
+
+**Thoughts:** I'm looking forward to learning more about databases with flask.
