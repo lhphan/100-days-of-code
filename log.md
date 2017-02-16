@@ -283,3 +283,9 @@
 **Today's Progress**: I worked on assignment 3 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp), which included work with databases. Still have some errors to work through.
 
 **Thoughts:** I'm looking forward to learning more about databases with flask.
+
+### Day 38: February 15, 2017 
+
+**Today's Progress**: I finished assignment 3 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). I also pushed the assignment to my github.
+
+**Thoughts:** No thoughts.
