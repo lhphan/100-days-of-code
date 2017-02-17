@@ -289,3 +289,9 @@
 **Today's Progress**: I finished assignment 3 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). I also pushed the assignment to my github.
 
 **Thoughts:** No thoughts.
+
+### Day 39: February 16, 2017 
+
+**Today's Progress**: I worked on the roman numeral converter.
+
+**Thoughts:** I'm so close to figuring it out!!
