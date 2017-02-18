@@ -295,3 +295,11 @@
 **Today's Progress**: I worked on the roman numeral converter.
 
 **Thoughts:** I'm so close to figuring it out!!
+
+**Thoughts:** No thoughts.
+
+### Day 40: February 17, 2017 
+
+**Today's Progress**: I worked on assignment 4 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
+
+**Thoughts:** No complaints.
