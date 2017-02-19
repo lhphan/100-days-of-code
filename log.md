@@ -303,3 +303,9 @@
 **Today's Progress**: I worked on assignment 4 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
 
 **Thoughts:** No complaints.
+
+### Day 41: February 18, 2017 
+
+**Today's Progress**: I worked on assignment 4 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). Keep getting a build error.
+
+**Thoughts:** Complaints.
