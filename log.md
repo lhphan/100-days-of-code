@@ -309,3 +309,9 @@
 **Today's Progress**: I worked on assignment 4 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). Keep getting a build error.
 
 **Thoughts:** Complaints.
+
+### Day 42: February 19, 2017 
+
+**Today's Progress**: I finished the core components for assignment 4 of [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). I just have to finish the styling.
+
+**Thoughts:** Today was a good day.
