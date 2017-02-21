@@ -315,3 +315,9 @@
 **Today's Progress**: I finished the core components for assignment 4 of [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). I just have to finish the styling.
 
 **Thoughts:** Today was a good day.
+
+### Day 43: February 20, 2017 
+
+**Today's Progress**: I finished assignment 4 of [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). I just have to finish the styling. I also watched the lecture for assignment 5.
+
+**Thoughts:** I'm already familiar with Javascript, so I feel confident about the assignment. 
