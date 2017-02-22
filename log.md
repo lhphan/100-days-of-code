@@ -321,3 +321,15 @@
 **Today's Progress**: I finished assignment 4 of [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). I just have to finish the styling. I also watched the lecture for assignment 5.
 
 **Thoughts:** I'm already familiar with Javascript, so I feel confident about the assignment. 
+
+### Day 44: February 21, 2017 
+
+**Today's Progress**: I finished assignment 5 of [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
+
+**Thoughts:** Assignment went smoothly.
+
+### Day 45: February 22, 2017 
+
+**Today's Progress**: I worked on the roman numeral converter for freeCodeCamp. There is still a bug whenever the number contains a 4 or 9.
+
+**Thoughts:** I'm very frustrated.
