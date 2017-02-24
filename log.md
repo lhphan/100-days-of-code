@@ -333,3 +333,9 @@
 **Today's Progress**: I worked on the roman numeral converter for freeCodeCamp. There is still a bug whenever the number contains a 4 or 9.
 
 **Thoughts:** I'm very frustrated.
+
+### Day 46: February 23, 2017 
+
+**Today's Progress**: I finally finished the roman numeral converter for freeCodeCamp!
+
+**Thoughts:** :D
