@@ -339,3 +339,10 @@
 **Today's Progress**: I finally finished the roman numeral converter for freeCodeCamp!
 
 **Thoughts:** :D
+
+### Day 47: February 24, 2017 
+
+**Today's Progress**: I watched lesson 6 and started on the assignment for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp), 
+which covers HTML and CSS.
+
+**Thoughts:** I glad to be reviewing flexbox.
