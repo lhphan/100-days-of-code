@@ -346,3 +346,10 @@
 which covers HTML and CSS.
 
 **Thoughts:** I glad to be reviewing flexbox.
+
+### Day 48: February 25, 2017 
+
+**Today's Progress**: I finished assignment 6 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp) and worked on the
+Wherefore Art Thou exercise from Free Code Camp.
+
+**Thoughts:** I feel productive today.
