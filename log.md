@@ -353,3 +353,10 @@ which covers HTML and CSS.
 Wherefore Art Thou exercise from Free Code Camp.
 
 **Thoughts:** I feel productive today.
+
+### Day 49: February 26, 2017 
+
+**Today's Progress**: I worked on the Wherefore Art Thou exercise from Free Code Camp. I'm having trouble understanding how to loop through 
+Javascript objects.
+
+**Thoughts:** Blah!
