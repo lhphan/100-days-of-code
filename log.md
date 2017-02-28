@@ -360,3 +360,9 @@ Wherefore Art Thou exercise from Free Code Camp.
 Javascript objects.
 
 **Thoughts:** Blah!
+
+### Day 50: February 27, 2017 
+
+**Today's Progress**: I continued to work on the Wherefore Art Thou exercise from Free Code Camp.
+
+**Thoughts:** I'm starting to understand objects.
