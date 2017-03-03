@@ -378,3 +378,9 @@ Javascript objects.
 **Today's Progress**: I finished assignment 7 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
 
 **Thoughts:** I'd like to work on the extra credit if time permits. 
+
+### Day 53: March 2, 2017 
+
+**Today's Progress**: I finished the Wherefore Art Thou exercise from Free Code Camp and started the Search and Replace exercise.
+
+**Thoughts:** I'm tired.
