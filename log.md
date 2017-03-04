@@ -384,3 +384,9 @@ Javascript objects.
 **Today's Progress**: I finished the Wherefore Art Thou exercise from Free Code Camp and started the Search and Replace exercise.
 
 **Thoughts:** I'm tired.
+
+### Day 54: March 3, 2017 
+
+**Today's Progress**: I watched lesson 8 and started on the assignment for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
+
+**Thoughts:** Yay, almost done with the mini bootcamp!
