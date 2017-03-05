@@ -390,3 +390,9 @@ Javascript objects.
 **Today's Progress**: I watched lesson 8 and started on the assignment for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
 
 **Thoughts:** Yay, almost done with the mini bootcamp!
+
+### Day 55: March 4, 2017 
+
+**Today's Progress**: I worked on assignment 8 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
+
+**Thoughts:** I'm glad I get to do some design in addition to development.
