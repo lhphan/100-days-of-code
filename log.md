@@ -396,3 +396,10 @@ Javascript objects.
 **Today's Progress**: I worked on assignment 8 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
 
 **Thoughts:** I'm glad I get to do some design in addition to development.
+
+### Day 56: March 5, 2017 
+
+**Today's Progress**: I worked on assignment 8 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp). For now, I'm 
+just put up placeholder elements until I have real stuff to add.
+
+**Thoughts:** I'm not that happy with my layout but we'll see.
