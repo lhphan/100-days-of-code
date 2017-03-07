@@ -403,3 +403,10 @@ Javascript objects.
 just put up placeholder elements until I have real stuff to add.
 
 **Thoughts:** I'm not that happy with my layout but we'll see.
+
+### Day 57: March 6, 2017 
+
+**Today's Progress**: I worked on assignment 8 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp) by playing around
+with the layout.
+
+**Thoughts:** I'm feeling better about the layout.
