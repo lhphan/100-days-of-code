@@ -410,3 +410,10 @@ just put up placeholder elements until I have real stuff to add.
 with the layout.
 
 **Thoughts:** I'm feeling better about the layout.
+
+### Day 58: March 7, 2017 
+
+**Today's Progress**: I continued to work on assignment 8 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp) 
+by playing around with the layout.
+
+**Thoughts:** I think I want to start over again.
