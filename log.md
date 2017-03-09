@@ -417,3 +417,11 @@ with the layout.
 by playing around with the layout.
 
 **Thoughts:** I think I want to start over again.
+
+### Day 59: March 8, 2017 
+
+**Today's Progress**: I finished assignment 8 for [LambdaSchool Mini Bootcamp](https://lambdaschool.com/mini-bootcamp).
+
+**Thoughts:** I'm not really happy with it but I just want to move on to something else.
+
+**Link to work**: [GitHub portfolio page](https://lhphan.github.io/)
