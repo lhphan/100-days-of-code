@@ -425,3 +425,10 @@ by playing around with the layout.
 **Thoughts:** I'm not really happy with it but I just want to move on to something else.
 
 **Link to work**: [GitHub portfolio page](https://lhphan.github.io/)
+
+### Day 60: March 9, 2017 
+
+**Today's Progress**: I finished the Search and Replace algorithm exercise and started on the Pig Latin excercise on 
+Free Code Camp.
+
+**Thoughts:** I feel good about my progress but I need to brush up on regular expressions.
