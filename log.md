@@ -432,3 +432,10 @@ by playing around with the layout.
 Free Code Camp.
 
 **Thoughts:** I feel good about my progress but I need to brush up on regular expressions.
+
+### Day 61: March 10, 2017 
+
+**Today's Progress**: I finished the Pig Latin algorithm exercise and started on the DNA Pairing excercise on 
+Free Code Camp.
+
+**Thoughts:** Today was productive.
