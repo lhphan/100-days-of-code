@@ -439,3 +439,10 @@ Free Code Camp.
 Free Code Camp.
 
 **Thoughts:** Today was productive.
+
+### Day 62: March 11, 2017 
+
+**Today's Progress**: I finished the DNA Pairing algorithm exercise and started on the Missing Letter excercise on 
+Free Code Camp.
+
+**Thoughts:** Today was good.
