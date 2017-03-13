@@ -446,3 +446,9 @@ Free Code Camp.
 Free Code Camp.
 
 **Thoughts:** Today was good.
+
+### Day 63: March 12, 2017 
+
+**Today's Progress**: I finished the Missing Letters and Boo Who excercise on Free Code Camp.
+
+**Thoughts:** I feel very productive because I was able to finish two algorithm exercises.
