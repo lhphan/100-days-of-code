@@ -452,3 +452,9 @@ Free Code Camp.
 **Today's Progress**: I finished the Missing Letters and Boo Who excercise on Free Code Camp.
 
 **Thoughts:** I feel very productive because I was able to finish two algorithm exercises.
+
+### Day 64: March 13, 2017 
+
+**Today's Progress**: I finished the Sorted Union and Convert HTML Entities excercise on Free Code Camp.
+
+**Thoughts:** I'm on a roll!
