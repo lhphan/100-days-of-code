@@ -464,3 +464,9 @@ Free Code Camp.
 **Today's Progress**: I finished lesson 1 of the [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
 
 **Thoughts:** It was a good way to review general javascript concepts.
+
+### Day 66: March 15, 2017 
+
+**Today's Progress**: I finished lesson 2 of the [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
+
+**Thoughts:** The assignment was a good review.
