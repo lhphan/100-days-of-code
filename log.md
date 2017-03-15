@@ -458,3 +458,9 @@ Free Code Camp.
 **Today's Progress**: I finished the Sorted Union and Convert HTML Entities excercise on Free Code Camp.
 
 **Thoughts:** I'm on a roll!
+
+### Day 65: March 14, 2017 
+
+**Today's Progress**: I finished lesson 1 of the [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
+
+**Thoughts:** It was a good way to review general javascript concepts.
