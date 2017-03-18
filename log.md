@@ -473,6 +473,12 @@ Free Code Camp.
 
 ### Day 67: March 16, 2017 
 
-**Today's Progress**: I worked on lesson 2 of the [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
+**Today's Progress**: I worked on lesson 3 of the [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
 
 **Thoughts:** Today was a bit of a challenge.
+
+### Day 68: March 17, 2017 
+
+**Today's Progress**: I watched lesson 4 of the [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
+
+**Thoughts:** I am a bit behind on the assignments but I plan to catch up this weekend.
