@@ -482,3 +482,9 @@ Free Code Camp.
 **Today's Progress**: I watched lesson 4 of the [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
 
 **Thoughts:** I am a bit behind on the assignments but I plan to catch up this weekend.
+
+### Day 69: March 18, 2017 
+
+**Today's Progress**: I rewatched lesson 4 of the [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript) and then continued to work on assignment 3.
+
+**Thoughts:** Still behind. :(
