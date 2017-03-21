@@ -495,3 +495,10 @@ Free Code Camp.
 [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
 
 **Thoughts:** I'm disappointed in my progress this weekend. Live and learn.
+
+### Day 71: March 20, 2017 
+
+**Today's Progress**: I worked on assignment 4 of the 
+[Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
+
+**Thoughts:** Still behind. Still frustrated.
