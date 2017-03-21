@@ -502,3 +502,10 @@ Free Code Camp.
 [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
 
 **Thoughts:** Still behind. Still frustrated.
+
+### Day 72: March 21, 2017 
+
+**Today's Progress**: I finished assignment 4 of the 
+[Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
+
+**Thoughts:** Meh.
