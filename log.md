@@ -509,3 +509,10 @@ Free Code Camp.
 [Javascript Mini Bootcamp](https://lambdaschool.com/mini-bootcamp/javascript).
 
 **Thoughts:** Meh.
+
+### Day 73: March 22, 2017 
+
+**Today's Progress**: I finished the Spinal Tap Case algorithm exercise and 
+started on the Sum All Odd Fibonacci Numbers exercise on Free Code Camp.
+
+**Thoughts:** Today was okay.
