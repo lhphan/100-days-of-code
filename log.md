@@ -523,3 +523,9 @@ started on the Sum All Odd Fibonacci Numbers exercise on Free Code Camp.
 on Free Code Camp.
 
 **Thoughts:** The exercise was tricky but I'm proud of myself for completing it.
+
+### Day 75: March 24, 2017 
+
+**Today's Progress**: I finished the Sum All Primes exercise on Free Code Camp.
+
+**Thoughts:** Today was okay.
