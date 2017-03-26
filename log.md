@@ -529,3 +529,10 @@ on Free Code Camp.
 **Today's Progress**: I finished the Sum All Primes exercise on Free Code Camp.
 
 **Thoughts:** Today was okay.
+
+### Day 76: March 25, 2017 
+
+**Today's Progress**: I worked on the Smallest Common Multiple exercise on 
+Free Code Camp.
+
+**Thoughts:** This exercise will probably take me awhile to solve.
