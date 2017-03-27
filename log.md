@@ -536,3 +536,11 @@ on Free Code Camp.
 Free Code Camp.
 
 **Thoughts:** This exercise will probably take me awhile to solve.
+
+### Day 77: March 26, 2017 
+
+**Today's Progress**: I decided to save the Smallest Common Multiple exercise for
+another time. Instead, I finished the Finders Keepers and Drop It exercise on 
+Free Code Camp.
+
+**Thoughts:** Too tired for thoughts.
