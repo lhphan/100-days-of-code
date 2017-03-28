@@ -544,3 +544,10 @@ another time. Instead, I finished the Finders Keepers and Drop It exercise on
 Free Code Camp.
 
 **Thoughts:** Too tired for thoughts.
+
+### Day 78: March 27, 2017 
+
+**Today's Progress**: I decided to take a break from algorithms and learned about 
+flexbox.
+
+**Thoughts:** No thoughts.
