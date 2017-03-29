@@ -551,3 +551,9 @@ Free Code Camp.
 flexbox.
 
 **Thoughts:** No thoughts.
+
+### Day 79: March 28, 2017 
+
+**Today's Progress**: I continued to learn about flexbox.
+
+**Thoughts:** I'm feeling more comfortable working with flexbox.
