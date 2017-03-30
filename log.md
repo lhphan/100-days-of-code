@@ -557,3 +557,9 @@ flexbox.
 **Today's Progress**: I continued to learn about flexbox.
 
 **Thoughts:** I'm feeling more comfortable working with flexbox.
+
+### Day 80: March 29, 2017 
+
+**Today's Progress**: I finished the flexbox tutorials by Wes Bos.
+
+**Thoughts:** I'm feeling confident about flexbox.
