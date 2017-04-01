@@ -563,3 +563,16 @@ flexbox.
 **Today's Progress**: I finished the flexbox tutorials by Wes Bos.
 
 **Thoughts:** I'm feeling confident about flexbox.
+
+### Day 81: March 30, 2017 
+
+**Today's Progress**: I went back to working on the Smallest Common Multiple exercise.
+
+**Thoughts:** I'm feeling better about the exercise. Before, I was overthinking it.
+
+### Day 82: March 31, 2017 
+
+**Today's Progress**: I finished the Smallest Common Multiple exercise and worked on the 
+Steamroller exercise.
+
+**Thoughts:** I'm getting a RangeError and now I'm confused.
