@@ -576,3 +576,10 @@ flexbox.
 Steamroller exercise.
 
 **Thoughts:** I'm getting a RangeError and now I'm confused.
+
+### Day 83: April 1, 2017 
+
+**Today's Progress**: I finished the Steamroller exercise and worked on the Binary Agent 
+exercise.
+
+**Thoughts:** Today was okay.
