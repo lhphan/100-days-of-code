@@ -583,3 +583,9 @@ Steamroller exercise.
 exercise.
 
 **Thoughts:** Today was okay.
+
+### Day 84: April 2, 2017 
+
+**Today's Progress**: I finished the Binary Agent and Everything Be True exercise.
+
+**Thoughts:** Today was good.
