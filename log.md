@@ -589,3 +589,9 @@ exercise.
 **Today's Progress**: I finished the Binary Agent and Everything Be True exercise.
 
 **Thoughts:** Today was good.
+
+### Day 85: April 3, 2017 
+
+**Today's Progress**: I worked on the Arguments Optional exercise.
+
+**Thoughts:** This exercise is tricky.
