@@ -595,3 +595,9 @@ exercise.
 **Today's Progress**: I worked on the Arguments Optional exercise.
 
 **Thoughts:** This exercise is tricky.
+
+### Day 86: April 4, 2017 
+
+**Today's Progress**: I continued to work on the Arguments Optional exercise.
+
+**Thoughts:** This exercise is still tricky.
