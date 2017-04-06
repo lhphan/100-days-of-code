@@ -601,3 +601,10 @@ exercise.
 **Today's Progress**: I continued to work on the Arguments Optional exercise.
 
 **Thoughts:** This exercise is still tricky.
+
+### Day 87: April 5, 2017 
+
+**Today's Progress**: I took a break from Free Code Camp by learning about 
+JavaScript debugging.
+
+**Thoughts:** Meh.
