@@ -608,3 +608,9 @@ exercise.
 JavaScript debugging.
 
 **Thoughts:** Meh.
+
+### Day 88: April 6, 2017 
+
+**Today's Progress**: I continued to work on the Arguments Optional exercise.
+
+**Thoughts:** Meh :/
