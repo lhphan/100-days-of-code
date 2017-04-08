@@ -614,3 +614,10 @@ JavaScript debugging.
 **Today's Progress**: I continued to work on the Arguments Optional exercise.
 
 **Thoughts:** Meh :/
+
+### Day 89: April 7, 2017 
+
+**Today's Progress**: I finished the Arguments Optional exercise and started working 
+on the Validate US Telephone Numbers exercise.
+
+**Thoughts:** I don't like RegExp.
