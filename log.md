@@ -621,3 +621,10 @@ JavaScript debugging.
 on the Validate US Telephone Numbers exercise.
 
 **Thoughts:** I don't like RegExp.
+
+### Day 90: April 8, 2017 
+
+**Today's Progress**: I read up on regular expressions to better understand the 
+Validate US Telephone Numbers exercise.
+
+**Thoughts:** I still don't like RegExp.
