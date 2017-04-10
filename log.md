@@ -628,3 +628,10 @@ on the Validate US Telephone Numbers exercise.
 Validate US Telephone Numbers exercise.
 
 **Thoughts:** I still don't like RegExp.
+
+### Day 91: April 9, 2017 
+
+**Today's Progress**: I continued to learn about regular expressions to better 
+understand the Validate US Telephone Numbers exercise.
+
+**Thoughts:** I still don't like RegExp.
