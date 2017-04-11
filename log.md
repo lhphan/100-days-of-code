@@ -635,3 +635,10 @@ Validate US Telephone Numbers exercise.
 understand the Validate US Telephone Numbers exercise.
 
 **Thoughts:** I still don't like RegExp.
+
+### Day 92: April 10, 2017 
+
+**Today's Progress**: I continued to learn about regular expressions and worked on 
+the Validate US Telephone Numbers exercise.
+
+**Thoughts:** I don't like RegExp a little less.
