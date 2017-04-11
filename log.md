@@ -642,3 +642,9 @@ understand the Validate US Telephone Numbers exercise.
 the Validate US Telephone Numbers exercise.
 
 **Thoughts:** I don't like RegExp a little less.
+
+### Day 93: April 11, 2017 
+
+**Today's Progress**: I finally finished the Validate US Telephone Numbers exercise.
+
+**Thoughts:** RegExp is okay.
