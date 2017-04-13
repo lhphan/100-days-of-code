@@ -648,3 +648,9 @@ the Validate US Telephone Numbers exercise.
 **Today's Progress**: I finally finished the Validate US Telephone Numbers exercise.
 
 **Thoughts:** RegExp is okay.
+
+### Day 94: April 12, 2017 
+
+**Today's Progress**: I worked on the Symmetric Difference exercise.
+
+**Thoughts:** Whatever.
