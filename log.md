@@ -654,3 +654,9 @@ the Validate US Telephone Numbers exercise.
 **Today's Progress**: I worked on the Symmetric Difference exercise.
 
 **Thoughts:** Whatever.
+
+### Day 95: April 13, 2017 
+
+**Today's Progress**: I worked on the Exact Change exercise.
+
+**Thoughts:** UGH.
