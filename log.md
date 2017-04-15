@@ -660,3 +660,9 @@ the Validate US Telephone Numbers exercise.
 **Today's Progress**: I worked on the Exact Change exercise.
 
 **Thoughts:** UGH.
+
+### Day 96: April 14, 2017 
+
+**Today's Progress**: I'm still working on the Exact Change exercise.
+
+**Thoughts:** UGH.
