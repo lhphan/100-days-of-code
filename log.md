@@ -672,3 +672,9 @@ the Validate US Telephone Numbers exercise.
 **Today's Progress**: I'm still working on the Exact Change exercise.
 
 **Thoughts:** This is really difficult.
+
+### Day 98: April 16, 2017 
+
+**Today's Progress**: I'm still working on the Exact Change exercise.
+
+**Thoughts:** I'm even more confused.
