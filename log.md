@@ -684,3 +684,10 @@ the Validate US Telephone Numbers exercise.
 **Today's Progress**: Yet again, I'm still working on the Exact Change exercise.
 
 **Thoughts:** I'm less confused.
+
+### Day 100: April 18, 2017 
+
+**Today's Progress**: I finished the Exact Change exercise and worked on 
+the Inventory Update exercise.
+
+**Thoughts:** Yay! I made it to 100 days.
