@@ -691,3 +691,8 @@ the Validate US Telephone Numbers exercise.
 the Inventory Update exercise.
 
 **Thoughts:** Yay! I made it to 100 days.
+
+### Day 101: April 19, 2017 
+
+**Today's Progress**: I took a break from algorithms and worked on the 
+JavaScript Calculator.
