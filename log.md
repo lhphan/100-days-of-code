@@ -696,3 +696,9 @@ the Inventory Update exercise.
 
 **Today's Progress**: I took a break from algorithms and worked on the 
 JavaScript Calculator.
+
+### Day 102: April 20, 2017 
+
+**Today's Progress**: I took worked on the JavaScript Calculator.
+
+**Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
