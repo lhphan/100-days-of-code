@@ -708,3 +708,9 @@ JavaScript Calculator.
 **Today's Progress**: I worked on the JavaScript Calculator.
 
 **Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
+
+### Day 104: April 22, 2017 
+
+**Today's Progress**: Again, I worked on the JavaScript Calculator.
+
+**Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
