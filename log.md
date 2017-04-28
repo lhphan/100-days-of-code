@@ -746,3 +746,9 @@ the display screen to work.
 able to get several functions to work.
 
 **Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
+
+### Day 110: April 28, 2017 
+
+**Today's Progress**: I've been debugging the JavaScript Calculator.
+
+**Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
