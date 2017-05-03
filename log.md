@@ -770,3 +770,9 @@ able to get several functions to work.
 **Today's Progress**: That's right, still debugging the JavaScript Calculator.
 
 **Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
+
+### Day 114: May 02, 2017 
+
+**Today's Progress**: Still debugging the JavaScript Calculator.
+
+**Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
