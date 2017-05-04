@@ -776,3 +776,9 @@ able to get several functions to work.
 **Today's Progress**: Still debugging the JavaScript Calculator.
 
 **Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
+
+### Day 115: May 03, 2017 
+
+**Today's Progress**: Was able to fix a lot of bugs for the JavaScript Calculator.
+
+**Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
