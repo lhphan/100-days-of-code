@@ -782,3 +782,9 @@ able to get several functions to work.
 **Today's Progress**: Was able to fix a lot of bugs for the JavaScript Calculator.
 
 **Link to work**: [JS Calculator](https://codepen.io/lhphan/full/YVwONz/)
+
+### Day 116: May 04, 2017 
+
+**Today's Progress**: Worked on moving the JavaScript Calculator to GitHub.
+
+**Link to work**: [JS Calculator](https://github.com/lhphan/jscalculator)
