@@ -794,3 +794,10 @@ able to get several functions to work.
 **Today's Progress**: Worked on improving the UI of the JavaScript Calculator.
 
 **Link to work**: [JS Calculator](https://github.com/lhphan/jscalculator)
+
+## Day 118: May 06, 2017 
+
+**Today's Progress**: Finished the JavaScript portion of the JavaScript Calculator. 
+Can now move on to design.
+
+**Link to work**: [JS Calculator](https://github.com/lhphan/jscalculator)
