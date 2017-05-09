@@ -807,3 +807,10 @@ Can now move on to design.
 **Today's Progress**: Finished the JavaScript Calculator! 
 
 **Link to work**: [JS Calculator](https://lhphan.github.io/jscalculator/)
+
+## Day 120: May 08, 2017 
+
+**Today's Progress**: Just kidding. Not finished with the calculator yet. Still 
+working on some small fixes.
+
+**Link to work**: [JS Calculator](https://lhphan.github.io/jscalculator/)
