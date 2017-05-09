@@ -814,3 +814,10 @@ Can now move on to design.
 working on some small fixes.
 
 **Link to work**: [JS Calculator](https://lhphan.github.io/jscalculator/)
+
+## Day 121: May 09, 2017 
+
+**Today's Progress**: Made some minor changes to the JS Calculator. There are still 
+some things I was unable to fix, but c'est la vie.
+
+**Link to work**: [JS Calculator](https://lhphan.github.io/jscalculator/)
