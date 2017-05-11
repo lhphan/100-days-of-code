@@ -821,3 +821,7 @@ working on some small fixes.
 some things I was unable to fix, but c'est la vie.
 
 **Link to work**: [JS Calculator](https://lhphan.github.io/jscalculator/)
+
+## Day 122: May 10, 2017 
+
+**Today's Progress**: I went back to working on the Inventory Update exercise.
