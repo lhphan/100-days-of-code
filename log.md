@@ -825,3 +825,8 @@ some things I was unable to fix, but c'est la vie.
 ## Day 122: May 10, 2017 
 
 **Today's Progress**: I went back to working on the Inventory Update exercise.
+
+## Day 123: May 11, 2017 
+
+**Today's Progress**: Still working on the Inventory Update exercise. Relearning 
+the reduce() method. Boo.
