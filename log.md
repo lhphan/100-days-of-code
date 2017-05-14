@@ -836,3 +836,7 @@ the reduce() method. Boo.
 **Today's Progress**: Still working on the Inventory Update exercise. Didn't get as 
 much done as I had hoped but it's better than nothing.
 
+## Day 125: May 13, 2017 
+
+**Today's Progress**: Finally finished the Inventory Update exercise.
+
