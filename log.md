@@ -840,3 +840,8 @@ much done as I had hoped but it's better than nothing.
 
 **Today's Progress**: Finally finished the Inventory Update exercise.
 
+## Day 126: May 14, 2017 
+
+**Today's Progress**: Started on the No Repeats Please exercise. This is going to 
+take a while to solve.
+
