@@ -845,3 +845,8 @@ much done as I had hoped but it's better than nothing.
 **Today's Progress**: Started on the No Repeats Please exercise. This is going to 
 take a while to solve.
 
+## Day 127: May 15, 2017 
+
+**Today's Progress**: Started working on the Pomodoro Clock project. I reviewed the
+requirements, outlined the functionality, and started a repo on GitHub.
+
