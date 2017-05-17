@@ -850,3 +850,7 @@ take a while to solve.
 **Today's Progress**: Started working on the Pomodoro Clock project. I reviewed the
 requirements, outlined the functionality, and started a repo on GitHub.
 
+## Day 128: May 16, 2017 
+
+**Today's Progress**: Worked on the Pomodoro Clock project. Researched UI for the clock.
+
