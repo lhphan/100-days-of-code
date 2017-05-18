@@ -850,7 +850,16 @@ take a while to solve.
 **Today's Progress**: Started working on the Pomodoro Clock project. I reviewed the
 requirements, outlined the functionality, and started a repo on GitHub.
 
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
 ## Day 128: May 16, 2017 
 
 **Today's Progress**: Worked on the Pomodoro Clock project. Researched UI for the clock.
 
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 129: May 17, 2017 
+
+**Today's Progress**: Started coding the timer for the Pomodoro Clock project.
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
