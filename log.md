@@ -863,3 +863,10 @@ requirements, outlined the functionality, and started a repo on GitHub.
 **Today's Progress**: Started coding the timer for the Pomodoro Clock project.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 130: May 18, 2017 
+
+**Today's Progress**: Continued coding the timer for the Pomodoro Clock project using 
+setInterval.
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
