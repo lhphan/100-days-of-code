@@ -870,3 +870,9 @@ requirements, outlined the functionality, and started a repo on GitHub.
 setInterval.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 131: May 19, 2017 
+
+**Today's Progress**: Worked on the timer display and researched incrementer UI.
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
