@@ -876,3 +876,10 @@ setInterval.
 **Today's Progress**: Worked on the timer display and researched incrementer UI.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 132: May 20, 2017 
+
+**Today's Progress**: Decided to change the incrementer/decrementer feature to allow 
+keyboard input. I don't know why I'm making things more difficult for myself. 
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
