@@ -883,3 +883,10 @@ setInterval.
 keyboard input. I don't know why I'm making things more difficult for myself. 
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 133: May 21, 2017 
+
+**Today's Progress**: The keyboard input feature was too complicated so I reverted to 
+my original plan. Was able to code out the incrementers and decrementers.
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
