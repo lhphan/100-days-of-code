@@ -890,3 +890,10 @@ keyboard input. I don't know why I'm making things more difficult for myself.
 my original plan. Was able to code out the incrementers and decrementers.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 134: May 22, 2017 
+
+**Today's Progress**: Worked on implementing the break session timer after the work 
+session timer is up.
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
