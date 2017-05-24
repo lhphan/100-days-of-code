@@ -897,3 +897,10 @@ my original plan. Was able to code out the incrementers and decrementers.
 session timer is up.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 135: May 23, 2017 
+
+**Today's Progress**: Finished implementing the break session timer after the work 
+session timer is up. 
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
