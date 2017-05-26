@@ -911,3 +911,9 @@ session timer is up.
 the UI.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 137: May 25, 2017 
+
+**Today's Progress**: Worked on the UI. 
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
