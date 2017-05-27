@@ -917,3 +917,9 @@ the UI.
 **Today's Progress**: Worked on the UI. 
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 138: May 26, 2017 
+
+**Today's Progress**: Worked on the UI and reviewed the DOM. 
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
