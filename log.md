@@ -929,3 +929,9 @@ the UI.
 **Today's Progress**: Still worked on the UI. Researched SVG usage.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 140: May 28, 2017 
+
+**Today's Progress**: Reviewed accessibility practices and worked on UI.
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
