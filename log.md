@@ -941,3 +941,10 @@ the UI.
 **Today's Progress**: Researched and worked on UI.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 142: May 30, 2017 
+
+**Today's Progress**: Finished the Pomodoro Clock. Might go back later 
+to refine the design.
+
+**Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
