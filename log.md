@@ -948,3 +948,9 @@ the UI.
 to refine the design.
 
 **Link to work**: [Pomodoro Clock](https://lhphan.github.io/pomodoro/)
+
+## Day 143: May 31, 2017 
+
+**Today's Progress**: Started planning for the tic tac toe game.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
