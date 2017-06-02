@@ -954,3 +954,9 @@ to refine the design.
 **Today's Progress**: Started planning for the tic tac toe game.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 144: June 1, 2017 
+
+**Today's Progress**: Coded the basic gameboard with HTML and CSS.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
