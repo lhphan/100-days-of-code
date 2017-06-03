@@ -960,3 +960,9 @@ to refine the design.
 **Today's Progress**: Coded the basic gameboard with HTML and CSS.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 145: June 2, 2017 
+
+**Today's Progress**: Worked on the jQuery to player clicks on the board.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
