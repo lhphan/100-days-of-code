@@ -966,3 +966,9 @@ to refine the design.
 **Today's Progress**: Worked on the jQuery to player clicks on the board.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 146: June 3, 2017 
+
+**Today's Progress**: Worked on the jQuery interaction when game is initialized.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
