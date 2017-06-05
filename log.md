@@ -972,3 +972,9 @@ to refine the design.
 **Today's Progress**: Worked on the jQuery interaction when game is initialized.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 147: June 4, 2017 
+
+**Today's Progress**: Reviewed recursion and the Minimax algorithm.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
