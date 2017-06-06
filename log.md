@@ -978,3 +978,10 @@ to refine the design.
 **Today's Progress**: Reviewed recursion and the Minimax algorithm.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 148: June 5, 2017 
+
+**Today's Progress**: Attempted to read and understand an article about the 
+[Minimax algorithm](https://medium.freecodecamp.com/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37).
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
