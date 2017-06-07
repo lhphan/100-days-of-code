@@ -985,3 +985,13 @@ to refine the design.
 [Minimax algorithm](https://medium.freecodecamp.com/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37).
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 149: June 6, 2017 
+
+**Today's Progress**: Continued to try to read and understand an article about the 
+[Minimax algorithm](https://medium.freecodecamp.com/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37). 
+Also researched an 
+[alternative way](https://medium.com/front-end-hacking/tic-tac-toe-javascript-game-b0cd6e98edd9) 
+to solve the problem.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
