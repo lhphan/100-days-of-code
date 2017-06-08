@@ -995,3 +995,10 @@ Also researched an
 to solve the problem.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 150: June 7, 2017 
+
+**Today's Progress**: Watched a video tutorial about ReactJS. Decided to scrap 
+the JS for the tic tac toe game and start again from scratch.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
