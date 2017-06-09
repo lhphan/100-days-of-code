@@ -1002,3 +1002,10 @@ to solve the problem.
 the JS for the tic tac toe game and start again from scratch.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 151: June 8, 2017 
+
+**Today's Progress**: Was able to code the basic features of the game for a 
+two player game (no AI).
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
