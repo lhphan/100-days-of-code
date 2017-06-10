@@ -1009,3 +1009,10 @@ the JS for the tic tac toe game and start again from scratch.
 two player game (no AI).
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 152: June 9, 2017 
+
+**Today's Progress**: Cleaned up the JS code a bit and researched how to 
+run functions synchronously.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
