@@ -1020,3 +1020,9 @@ run functions synchronously.
 ## Day 153: June 10, 2017 
 
 **Today's Progress**: Reviewed arrays and objects.
+
+## Day 154: June 11, 2017 
+
+**Today's Progress**: Worked on coding the UI for choosing game mode.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
