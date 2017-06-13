@@ -1026,3 +1026,7 @@ run functions synchronously.
 **Today's Progress**: Worked on coding the UI for choosing game mode.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 155: June 12, 2017 
+
+**Today's Progress**: Read a long article about npm. I still don't get it.
