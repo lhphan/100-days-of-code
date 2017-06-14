@@ -1030,3 +1030,8 @@ run functions synchronously.
 ## Day 155: June 12, 2017 
 
 **Today's Progress**: Read a long article about npm. I still don't get it.
+
+## Day 156: June 13, 2017 
+
+**Today's Progress**: Reviewed accessibility and responsive web design on 
+Free Code Camp beta.
