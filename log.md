@@ -1035,3 +1035,8 @@ run functions synchronously.
 
 **Today's Progress**: Reviewed accessibility and responsive web design on 
 Free Code Camp beta.
+
+## Day 157: June 14, 2017 
+
+**Today's Progress**: Reviewed flexbox and a little of ES6 on Free Code 
+Camp beta.
