@@ -1040,3 +1040,8 @@ Free Code Camp beta.
 
 **Today's Progress**: Reviewed flexbox and a little of ES6 on Free Code 
 Camp beta.
+
+## Day 158: June 15, 2017 
+
+**Today's Progress**: Reviewed viewport units and continued ES6 exercises 
+on Free Code Camp beta.
