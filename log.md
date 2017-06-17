@@ -1045,3 +1045,8 @@ Camp beta.
 
 **Today's Progress**: Reviewed viewport units and continued ES6 exercises 
 on Free Code Camp beta.
+
+## Day 159: June 16, 2017 
+
+**Today's Progress**: Continued ES6 exercises on Free Code Camp beta. Didn't 
+get a lot done because it's Friday and I'm lazy.
