@@ -1050,3 +1050,7 @@ on Free Code Camp beta.
 
 **Today's Progress**: Continued ES6 exercises on Free Code Camp beta. Didn't 
 get a lot done because it's Friday and I'm lazy.
+
+## Day 160: June 17, 2017 
+
+**Today's Progress**: Reviewed RegEx on Free Code Camp beta. 
