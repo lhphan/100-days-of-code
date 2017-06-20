@@ -1058,3 +1058,8 @@ get a lot done because it's Friday and I'm lazy.
 ## Day 161: June 18, 2017 
 
 **Today's Progress**: Continued to review RegEx on Free Code Camp beta. 
+
+## Day 162: June 19, 2017 
+
+**Today's Progress**: Continued to review RegEx on Free Code Camp beta. These 
+last few RegEx exercises are a bit tricky. 
