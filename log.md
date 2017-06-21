@@ -1063,3 +1063,7 @@ get a lot done because it's Friday and I'm lazy.
 
 **Today's Progress**: Continued to review RegEx on Free Code Camp beta. These 
 last few RegEx exercises are a bit tricky. 
+
+## Day 163: June 20, 2017 
+
+**Today's Progress**: Reviewed RegEx and Sass on Free Code Camp beta.  
