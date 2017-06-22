@@ -1066,4 +1066,8 @@ last few RegEx exercises are a bit tricky.
 
 ## Day 163: June 20, 2017 
 
-**Today's Progress**: Reviewed RegEx and Sass on Free Code Camp beta.  
+**Today's Progress**: Reviewed RegEx and Sass on Free Code Camp beta. 
+
+## Day 164: June 21, 2017 
+
+**Today's Progress**: Finished SASS exercises on Codecademy. 
