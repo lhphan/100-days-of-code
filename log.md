@@ -1071,3 +1071,7 @@ last few RegEx exercises are a bit tricky.
 ## Day 164: June 21, 2017 
 
 **Today's Progress**: Finished SASS exercises on Codecademy. 
+
+## Day 165: June 22, 2017 
+
+**Today's Progress**: Did React exercises on Codecademy. 
