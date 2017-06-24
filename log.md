@@ -1075,3 +1075,7 @@ last few RegEx exercises are a bit tricky.
 ## Day 165: June 22, 2017 
 
 **Today's Progress**: Did React exercises on Codecademy. 
+
+## Day 166: June 23, 2017 
+
+**Today's Progress**: Completed React component exercises on Codecademy. 
