@@ -1079,3 +1079,7 @@ last few RegEx exercises are a bit tricky.
 ## Day 166: June 23, 2017 
 
 **Today's Progress**: Completed React component exercises on Codecademy. 
+
+## Day 167: June 24, 2017 
+
+**Today's Progress**: Completed ReactJS Part I on Codecademy. 
