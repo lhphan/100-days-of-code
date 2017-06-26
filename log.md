@@ -1083,3 +1083,8 @@ last few RegEx exercises are a bit tricky.
 ## Day 167: June 24, 2017 
 
 **Today's Progress**: Completed ReactJS Part I on Codecademy. 
+
+## Day 168: June 25, 2017 
+
+**Today's Progress**: Read the first 2 chapters of [React.js for the 
+Visual Learner](https://leanpub.com/reactjsforthevisuallearner/). 
