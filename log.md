@@ -1088,3 +1088,8 @@ last few RegEx exercises are a bit tricky.
 
 **Today's Progress**: Read the first 2 chapters of [React.js for the 
 Visual Learner](https://leanpub.com/reactjsforthevisuallearner/). 
+
+## Day 169: June 26, 2017 
+
+**Today's Progress**: Read chapters 3 and 4 of [React.js for the 
+Visual Learner](https://leanpub.com/reactjsforthevisuallearner/). 
