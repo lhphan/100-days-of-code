@@ -1108,3 +1108,8 @@ Visual Learner](https://leanpub.com/reactjsforthevisuallearner/).
 
 **Today's Progress**: Finished half of chapter 7 of [React.js for the 
 Visual Learner](https://leanpub.com/reactjsforthevisuallearner/). 
+
+## Day 173: June 30, 2017 
+
+**Today's Progress**: Finished chapter 7 of [React.js for the 
+Visual Learner](https://leanpub.com/reactjsforthevisuallearner/). 
