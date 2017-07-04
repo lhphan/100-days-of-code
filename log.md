@@ -1128,3 +1128,7 @@ Visual Learner](https://leanpub.com/reactjsforthevisuallearner/).
 
 **Today's Progress**: Attempted to learn Firebase. It might be too 
 advanced for me at this time.
+
+## Day 177: July 04, 2017 
+
+**Today's Progress**: Watched videos to review ReactJS.
