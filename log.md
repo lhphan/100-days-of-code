@@ -1123,3 +1123,8 @@ Visual Learner](https://leanpub.com/reactjsforthevisuallearner/).
 
 **Today's Progress**: Read some of chapter 9 of [React.js for the 
 Visual Learner](https://leanpub.com/reactjsforthevisuallearner/). 
+
+## Day 176: July 03, 2017 
+
+**Today's Progress**: Attempted to learn Firebase. It might be too 
+advanced for me at this time.
