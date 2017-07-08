@@ -1140,3 +1140,7 @@ advanced for me at this time.
 ## Day 179: July 06, 2017 
 
 **Today's Progress**: Watched videos to review npm and ES6.
+
+## Day 180: July 07, 2017 
+
+**Today's Progress**: Watched video to review ES6.
