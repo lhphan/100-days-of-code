@@ -1149,3 +1149,7 @@ advanced for me at this time.
 
 **Today's Progress**: Watched video to review ReactJS (Webpack 
 and components).
+
+## Day 182: July 09, 2017 
+
+**Today's Progress**: Watched video to review ReactJS (props).
