@@ -1144,3 +1144,8 @@ advanced for me at this time.
 ## Day 180: July 07, 2017 
 
 **Today's Progress**: Watched video to review ES6.
+
+## Day 181: July 08, 2017 
+
+**Today's Progress**: Watched video to review ReactJS (Webpack 
+and components).
