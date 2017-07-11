@@ -1153,3 +1153,8 @@ and components).
 ## Day 182: July 09, 2017 
 
 **Today's Progress**: Watched video to review ReactJS (props).
+
+## Day 183: July 10, 2017 
+
+**Today's Progress**: Reviewed chapter 6 of [React.js for the 
+Visual Learner](https://leanpub.com/reactjsforthevisuallearner/).
