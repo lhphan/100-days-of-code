@@ -1158,3 +1158,9 @@ and components).
 
 **Today's Progress**: Reviewed chapter 6 of [React.js for the 
 Visual Learner](https://leanpub.com/reactjsforthevisuallearner/).
+
+## Day 184: July 11, 2017 
+
+**Today's Progress**: Watched a [video about 
+Webpack](https://www.youtube.com/watch?v=ZC3wgDoD1Fo) and started 
+a [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
