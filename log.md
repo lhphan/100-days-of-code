@@ -1164,3 +1164,8 @@ Visual Learner](https://leanpub.com/reactjsforthevisuallearner/).
 **Today's Progress**: Watched a [video about 
 Webpack](https://www.youtube.com/watch?v=ZC3wgDoD1Fo) and started 
 a [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
+
+## Day 185: July 12, 2017 
+
+**Today's Progress**: Went through the React set up section of the 
+[React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
