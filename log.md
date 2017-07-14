@@ -1169,3 +1169,8 @@ a [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
 
 **Today's Progress**: Went through the React set up section of the 
 [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
+
+## Day 186: July 13, 2017 
+
+**Today's Progress**: Went through the Dataflow with Props section of the 
+[React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
