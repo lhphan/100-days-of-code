@@ -1179,3 +1179,8 @@ a [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
 
 **Today's Progress**: Went through the Pure Functions section of the 
 [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
+
+## Day 188: July 15, 2017 
+
+**Today's Progress**: Went through the PropTypes section of the 
+[React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
