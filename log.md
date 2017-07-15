@@ -1174,3 +1174,8 @@ a [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
 
 **Today's Progress**: Went through the Dataflow with Props section of the 
 [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
+
+## Day 187: July 14, 2017 
+
+**Today's Progress**: Went through the Pure Functions section of the 
+[React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
