@@ -1184,3 +1184,8 @@ a [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
 
 **Today's Progress**: Went through the PropTypes section of the 
 [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
+
+## Day 189: July 16, 2017 
+
+**Today's Progress**: Went through the "this" Keyword section of the 
+[React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
