@@ -1193,3 +1193,8 @@ a [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
 ## Day 190: July 17, 2017 
 
 **Today's Progress**: Tried to figure out how states and bind work in React.
+
+## Day 191: July 19, 2017 
+
+**Today's Progress**: Went through the Stateless Functional Components section 
+of the [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
