@@ -1203,3 +1203,8 @@ of the [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/
 
 **Today's Progress**: Went through the Life Cyle Events section of the 
 [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
+
+## Day 193: July 21, 2017 
+
+**Today's Progress**: Read through days 1-4 of  
+[30 Days of React](https://www.fullstackreact.com/30-days-of-react/).
