@@ -1208,3 +1208,8 @@ of the [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/
 
 **Today's Progress**: Read through days 1-4 of  
 [30 Days of React](https://www.fullstackreact.com/30-days-of-react/).
+
+## Day 194: July 22, 2017 
+
+**Today's Progress**: Read through the State and Lifecycle section of the 
+[React documentation](https://facebook.github.io/react/docs/state-and-lifecycle.html).
