@@ -1213,3 +1213,8 @@ of the [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/
 
 **Today's Progress**: Read through the State and Lifecycle section of the 
 [React documentation](https://facebook.github.io/react/docs/state-and-lifecycle.html).
+
+## Day 195: July 23, 2017 
+
+**Today's Progress**: Read through the Handling Events section of the 
+[React documentation](https://facebook.github.io/react/docs/state-and-lifecycle.html).
