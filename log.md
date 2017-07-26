@@ -1223,3 +1223,8 @@ of the [React course by Tyler McGinnis](https://learn.tylermcginnis.com/courses/
 
 **Today's Progress**: Watched [freeCodeCamp video](https://www.youtube.com/watch?v=OUPBEpfBEXo) 
 about starting a React.js project and reviewed states in React.js. 
+
+## Day 197: July 25, 2017 
+
+**Today's Progress**: Watched two freeCodeCamp videos about React.js. They were 
+long videos.
