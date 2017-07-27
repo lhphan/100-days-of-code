@@ -1228,3 +1228,8 @@ about starting a React.js project and reviewed states in React.js.
 
 **Today's Progress**: Watched two freeCodeCamp videos about React.js. They were 
 long videos.
+
+## Day 198: July 26, 2017 
+
+**Today's Progress**: Read "Introduction to React" from [The Road to Learn 
+React](https://github.com/rwieruch/the-road-to-learn-react).
