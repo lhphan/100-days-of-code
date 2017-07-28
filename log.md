@@ -1238,3 +1238,8 @@ React](https://github.com/rwieruch/the-road-to-learn-react).
 
 **Today's Progress**: Read part of chapter 2 of [The Road to Learn 
 React](https://github.com/rwieruch/the-road-to-learn-react).
+
+## Day 200: July 28, 2017 
+
+**Today's Progress**: Continued to read chapter 2 of [The Road to Learn 
+React](https://github.com/rwieruch/the-road-to-learn-react).
