@@ -1233,3 +1233,8 @@ long videos.
 
 **Today's Progress**: Read "Introduction to React" from [The Road to Learn 
 React](https://github.com/rwieruch/the-road-to-learn-react).
+
+## Day 199: July 27, 2017 
+
+**Today's Progress**: Read part of chapter 2 of [The Road to Learn 
+React](https://github.com/rwieruch/the-road-to-learn-react).
