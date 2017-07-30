@@ -1243,3 +1243,9 @@ React](https://github.com/rwieruch/the-road-to-learn-react).
 
 **Today's Progress**: Continued to read chapter 2 of [The Road to Learn 
 React](https://github.com/rwieruch/the-road-to-learn-react).
+
+## Day 201: July 29, 2017 
+
+**Today's Progress**: Read part of an article about [this in 
+Javascript](https://rainsoft.io/gentle-explanation-of-this-in-javascript/). 
+Left off on "Indirect invocation".
