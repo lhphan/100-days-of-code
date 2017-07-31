@@ -1249,3 +1249,9 @@ React](https://github.com/rwieruch/the-road-to-learn-react).
 **Today's Progress**: Read part of an article about [this in 
 Javascript](https://rainsoft.io/gentle-explanation-of-this-in-javascript/). 
 Left off on "Indirect invocation".
+
+## Day 202: July 30, 2017 
+
+**Today's Progress**: Finisted reading an article about [this in 
+Javascript](https://rainsoft.io/gentle-explanation-of-this-in-javascript/). 
+Also read [Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react/).
