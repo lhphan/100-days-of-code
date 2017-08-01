@@ -1255,3 +1255,8 @@ Left off on "Indirect invocation".
 **Today's Progress**: Finisted reading an article about [this in 
 Javascript](https://rainsoft.io/gentle-explanation-of-this-in-javascript/). 
 Also read [Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react/).
+
+## Day 203: July 31, 2017 
+
+**Today's Progress**: Decided to go back to basics. Read up tp chapter 5 of 
+[The JavaScript Way](https://github.com/bpesquet/thejsway).
