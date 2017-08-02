@@ -1260,3 +1260,8 @@ Also read [Visual Guide to State in React](https://daveceddia.com/visual-guide-t
 
 **Today's Progress**: Decided to go back to basics. Read up tp chapter 5 of 
 [The JavaScript Way](https://github.com/bpesquet/thejsway).
+
+## Day 204: August 01, 2017 
+
+**Today's Progress**: Read chapters 6-10 of  
+[The JavaScript Way](https://github.com/bpesquet/thejsway).
