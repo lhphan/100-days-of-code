@@ -1269,4 +1269,9 @@ Also read [Visual Guide to State in React](https://daveceddia.com/visual-guide-t
 ## Day 205: August 02, 2017 
 
 **Today's Progress**: Read chapters 10-14 of  
-[The JavaScript Way](https://github.com/bpesquet/thejsway)
+[The JavaScript Way](https://github.com/bpesquet/thejsway).
+
+## Day 206: August 03, 2017 
+
+**Today's Progress**: Read chapters 15-18 of  
+[The JavaScript Way](https://github.com/bpesquet/thejsway).
