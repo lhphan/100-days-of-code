@@ -1275,3 +1275,10 @@ Also read [Visual Guide to State in React](https://daveceddia.com/visual-guide-t
 
 **Today's Progress**: Read chapters 15-18 of  
 [The JavaScript Way](https://github.com/bpesquet/thejsway).
+
+## Day 207: August 04, 2017 
+
+**Today's Progress**: Worked on the Social News Web Page project from  
+[The JavaScript Way](https://github.com/bpesquet/thejsway).
+
+**Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
