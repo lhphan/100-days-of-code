@@ -1282,3 +1282,10 @@ Also read [Visual Guide to State in React](https://daveceddia.com/visual-guide-t
 [The JavaScript Way](https://github.com/bpesquet/thejsway).
 
 **Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
+
+## Day 208: August 05, 2017 
+
+**Today's Progress**: Worked on the Social News Web Page project from  
+[The JavaScript Way](https://github.com/bpesquet/thejsway). Added the form.
+
+**Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
