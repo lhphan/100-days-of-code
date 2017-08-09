@@ -1297,3 +1297,8 @@ Also read [Visual Guide to State in React](https://daveceddia.com/visual-guide-t
 when the submit button is clicked.
 
 **Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
+
+## Day 210: August 08, 2017 
+
+**Today's Progress**: Watched videos about DOM manipulation and read an 
+[article about the reduce function](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4).
