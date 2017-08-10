@@ -1302,3 +1302,11 @@ when the submit button is clicked.
 
 **Today's Progress**: Watched videos about DOM manipulation and read an 
 [article about the reduce function](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4).
+
+## Day 211: August 09, 2017 
+
+**Today's Progress**: Worked on the Social News Web Page project from  
+[The JavaScript Way](https://github.com/bpesquet/thejsway). Added list of three 
+default links.
+
+**Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
