@@ -1310,3 +1310,11 @@ when the submit button is clicked.
 default links.
 
 **Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
+
+## Day 212: August 10, 2017 
+
+**Today's Progress**: Worked on the Social News Web Page project from  
+[The JavaScript Way](https://github.com/bpesquet/thejsway). Coded the form functionality, 
+which adds the user submitted link to the list.
+
+**Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
