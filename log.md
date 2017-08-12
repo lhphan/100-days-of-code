@@ -1326,3 +1326,8 @@ which adds the user submitted link to the list.
 that temporarily displays a success message after the form is submitted.
 
 **Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
+
+## Day 214: August 12, 2017 
+
+**Today's Progress**: Read chapters 20-22 of  
+[The JavaScript Way](https://github.com/bpesquet/thejsway).
