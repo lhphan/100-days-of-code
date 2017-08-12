@@ -1318,3 +1318,11 @@ default links.
 which adds the user submitted link to the list.
 
 **Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
+
+## Day 213: August 11, 2017 
+
+**Today's Progress**: Worked on the Social News Web Page project from  
+[The JavaScript Way](https://github.com/bpesquet/thejsway). Coded the form functionality 
+that temporarily displays a success message after the form is submitted.
+
+**Link to work**: [Social News Web Page](https://github.com/lhphan/social-news-web-page)
