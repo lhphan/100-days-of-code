@@ -1336,3 +1336,8 @@ that temporarily displays a success message after the form is submitted.
 
 **Today's Progress**: Read chapters 23-24 of  
 [The JavaScript Way](https://github.com/bpesquet/thejsway).
+
+## Day 216: August 14, 2017 
+
+**Today's Progress**: Read chapters 25 of  
+[The JavaScript Way](https://github.com/bpesquet/thejsway). The chapter is quite dense.
