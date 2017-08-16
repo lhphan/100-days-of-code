@@ -1341,3 +1341,7 @@ that temporarily displays a success message after the form is submitted.
 
 **Today's Progress**: Read chapters 25 of  
 [The JavaScript Way](https://github.com/bpesquet/thejsway). The chapter is quite dense.
+
+## Day 217: August 15, 2017 
+
+**Today's Progress**: Reviewed the React tutorial on Codecademy again.
