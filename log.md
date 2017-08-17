@@ -1345,3 +1345,7 @@ that temporarily displays a success message after the form is submitted.
 ## Day 217: August 15, 2017 
 
 **Today's Progress**: Reviewed the React tutorial on Codecademy again.
+
+## Day 218: August 16, 2017 
+
+**Today's Progress**: Reviewed components and JSX from the React tutorial on Codecademy.
