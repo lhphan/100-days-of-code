@@ -1363,3 +1363,8 @@ Part 2 on [Code School](https://www.codeschool.com/).
 
 **Today's Progress**: Finished JavaScript Roadtrip Part 2 on 
 [Code School](https://www.codeschool.com/).
+
+## Day 222: August 20, 2017 
+
+**Today's Progress**: Worked on JavaScript Roadtrip Part 3 on 
+[Code School](https://www.codeschool.com/).
