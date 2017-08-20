@@ -1358,3 +1358,8 @@ that temporarily displays a success message after the form is submitted.
 
 **Today's Progress**: Worked through the first 2 sections of JavaScript Roadtrip 
 Part 2 on [Code School](https://www.codeschool.com/).
+
+## Day 221: August 19, 2017 
+
+**Today's Progress**: Finished JavaScript Roadtrip Part 2 on 
+[Code School](https://www.codeschool.com/).
