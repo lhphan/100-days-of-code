@@ -1368,3 +1368,7 @@ Part 2 on [Code School](https://www.codeschool.com/).
 
 **Today's Progress**: Worked on JavaScript Roadtrip Part 3 on 
 [Code School](https://www.codeschool.com/).
+
+## Day 223: August 21, 2017 
+
+**Today's Progress**: Started Learn ReactJS: Part II on Codecademy.
