@@ -1376,3 +1376,8 @@ Part 2 on [Code School](https://www.codeschool.com/).
 ## Day 224: August 22, 2017 
 
 **Today's Progress**: Continued with Learn ReactJS: Part II on Codecademy.
+
+## Day 225: August 23, 2017 
+
+**Today's Progress**: Learned about stateless functional components from Learn 
+ReactJS: Part II on Codecademy.
