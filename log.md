@@ -1381,3 +1381,8 @@ Part 2 on [Code School](https://www.codeschool.com/).
 
 **Today's Progress**: Learned about stateless functional components from Learn 
 ReactJS: Part II on Codecademy.
+
+## Day 226: August 24, 2017 
+
+**Today's Progress**: Learned about PropTypes from Learn ReactJS: Part II 
+on Codecademy.
