@@ -1386,3 +1386,8 @@ ReactJS: Part II on Codecademy.
 
 **Today's Progress**: Learned about PropTypes from Learn ReactJS: Part II 
 on Codecademy.
+
+## Day 227: August 25, 2017 
+
+**Today's Progress**: Learned about LifeCycles from Learn ReactJS: Part II 
+on Codecademy.
