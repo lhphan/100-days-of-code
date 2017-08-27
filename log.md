@@ -1396,3 +1396,8 @@ on Codecademy.
 
 **Today's Progress**: Learned about updating/unmounting lifecycles methods from 
 Learn ReactJS: Part II on Codecademy.
+
+## Day 229: August 27, 2017 
+
+**Today's Progress**: Started the ReactJs course on 
+[OpenClassrooms](https://openclassrooms.com/courses/build-web-apps-with-reactjs).
