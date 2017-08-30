@@ -1411,3 +1411,8 @@ Learn ReactJS: Part II on Codecademy.
 
 **Today's Progress**: Finished section 2/3 of the ReactJs course on 
 [OpenClassrooms](https://openclassrooms.com/courses/build-web-apps-with-reactjs).
+
+## Day 232: August 30, 2017 
+
+**Today's Progress**: Worked on section 3.2 of the ReactJs course on 
+[OpenClassrooms](https://openclassrooms.com/courses/build-web-apps-with-reactjs).
