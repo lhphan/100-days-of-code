@@ -1416,3 +1416,9 @@ Learn ReactJS: Part II on Codecademy.
 
 **Today's Progress**: Worked on section 3.2 of the ReactJs course on 
 [OpenClassrooms](https://openclassrooms.com/courses/build-web-apps-with-reactjs).
+
+## Day 233: August 31, 2017
+
+**Today's Progress**: Read an article on 
+[States in React](https://daveceddia.com/visual-guide-to-state-in-react/). Also 
+read parts 1-2 of [React Crash Course for Beginners](https://code.tutsplus.com/tutorials/react-crash-course-for-beginners-part-1--cms-29291).
