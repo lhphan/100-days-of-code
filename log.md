@@ -1422,3 +1422,8 @@ Learn ReactJS: Part II on Codecademy.
 **Today's Progress**: Read an article on 
 [States in React](https://daveceddia.com/visual-guide-to-state-in-react/). Also 
 read parts 1-2 of [React Crash Course for Beginners](https://code.tutsplus.com/tutorials/react-crash-course-for-beginners-part-1--cms-29291).
+
+## Day 234: September 01, 2017
+
+**Today's Progress**: Read part 3 of 
+[React Crash Course for Beginners](https://code.tutsplus.com/tutorials/react-crash-course-for-beginners-part-3--cms-29293).
