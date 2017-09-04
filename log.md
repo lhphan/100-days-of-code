@@ -1432,3 +1432,9 @@ read parts 1-2 of [React Crash Course for Beginners](https://code.tutsplus.com/t
 
 **Today's Progress**: Worked on part 4 of 
 [React Crash Course for Beginners](https://code.tutsplus.com/tutorials/react-crash-course-for-beginners-part-4--cms-29294).
+
+## Day 236: September 03, 2017
+
+**Today's Progress**: Finished part 4 of 
+[React Crash Course for Beginners](https://code.tutsplus.com/tutorials/react-crash-course-for-beginners-part-4--cms-29294). Will review the whole 
+tutorial again tomorrow. 
