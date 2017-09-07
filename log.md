@@ -1448,3 +1448,8 @@ the concepts.
 
 **Today's Progress**: Decided to go back and review videos from 
 [React Fundamentals by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
+
+## Day 239: September 07, 2017
+
+**Today's Progress**: Went through two sections of the Javascript Fundamentals on 
+[Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
