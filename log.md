@@ -1443,3 +1443,8 @@ tutorial again tomorrow.
 
 **Today's Progress**: Reviewed [React Crash Course for Beginners](https://code.tutsplus.com/tutorials/react-crash-course-for-beginners-part-1--cms-29291) to make sure I understand 
 the concepts.
+
+## Day 238: September 06, 2017
+
+**Today's Progress**: Decided to go back and review videos from 
+[React Fundamentals by Tyler McGinnis](https://learn.tylermcginnis.com/courses/).
