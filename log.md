@@ -1453,3 +1453,9 @@ the concepts.
 
 **Today's Progress**: Went through two sections of the Javascript Fundamentals on 
 [Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
+
+## Day 240: September 08, 2017
+
+**Today's Progress**: Went through seven sections of the Javascript Fundamentals 
+Functions and Scope section on 
+[Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
