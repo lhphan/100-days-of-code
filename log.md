@@ -1465,3 +1465,8 @@ Functions and Scope section on
 **Today's Progress**: Finished the sections on Functions and Scope and started 
 the arrays section on 
 [Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
+
+## Day 242: September 10, 2017
+
+**Today's Progress**: Worked on the arrays and objects sections on 
+[Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
