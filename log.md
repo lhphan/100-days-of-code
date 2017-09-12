@@ -1470,3 +1470,8 @@ the arrays section on
 
 **Today's Progress**: Worked on the arrays and objects sections on 
 [Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
+
+## Day 243: September 11, 2017
+
+**Today's Progress**: Finished the objects sections on 
+[Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
