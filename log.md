@@ -1480,3 +1480,8 @@ the arrays section on
 
 **Today's Progress**: Finished the loops section on 
 [Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
+
+## Day 245: September 13, 2017
+
+**Today's Progress**: Completed 5/8 sections of The DOM section on  
+[Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
