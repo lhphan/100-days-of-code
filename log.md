@@ -1490,3 +1490,8 @@ the arrays section on
 
 **Today's Progress**: Completed The DOM and jQuery section on  
 [Flatiron School's bootcamp prep](https://learn.co/tracks/bootcamp-prep).
+
+## Day 247: September 15, 2017
+
+**Today's Progress**: Got back to the tic-tac-toe project. Watched two tutorial 
+videos explaining the MinMax algorithm. 
