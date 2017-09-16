@@ -1495,3 +1495,9 @@ the arrays section on
 
 **Today's Progress**: Got back to the tic-tac-toe project. Watched two tutorial 
 videos explaining the MinMax algorithm. 
+
+## Day 248: September 16, 2017
+
+**Today's Progress**: Worked on implementing AI on the tic-tac-toe game.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
