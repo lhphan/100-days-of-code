@@ -1513,3 +1513,7 @@ videos explaining the MinMax algorithm.
 **Today's Progress**: Worked on the tic-tac-toe game to keep track of unplayed spots.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 251: September 19, 2017
+
+**Today's Progress**: Watched a [video about ES6](https://www.youtube.com/watch?v=IPMvxZR9Me8).
