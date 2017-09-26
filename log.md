@@ -1547,3 +1547,9 @@ videos explaining the MinMax algorithm.
 **Today's Progress**: Incorporated font awesome icons for the gamepieces.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 257: September 25, 2017
+
+**Today's Progress**: Worked on CSS styling and fixed a bug.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
