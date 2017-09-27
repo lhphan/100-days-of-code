@@ -1553,3 +1553,9 @@ videos explaining the MinMax algorithm.
 **Today's Progress**: Worked on CSS styling and fixed a bug.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 258: September 26, 2017
+
+**Today's Progress**: Continued to work on CSS styling.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
