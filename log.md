@@ -1559,3 +1559,9 @@ videos explaining the MinMax algorithm.
 **Today's Progress**: Continued to work on CSS styling.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 259: September 27, 2017
+
+**Today's Progress**: Added flexbox to make the layout prettier.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
