@@ -1565,3 +1565,9 @@ videos explaining the MinMax algorithm.
 **Today's Progress**: Added flexbox to make the layout prettier.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 260: September 28, 2017
+
+**Today's Progress**: Changed the styling of the winner declaration.
+
+**Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
