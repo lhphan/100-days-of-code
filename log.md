@@ -1571,3 +1571,8 @@ videos explaining the MinMax algorithm.
 **Today's Progress**: Changed the styling of the winner declaration.
 
 **Link to work**: [Tic Tac Toe Game](https://lhphan.github.io/tic-tac-toe/)
+
+## Day 261: September 29, 2017
+
+**Today's Progress**: Read some articles and watched some videos. I have a lot 
+of mental fatigue today.
