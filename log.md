@@ -1576,3 +1576,7 @@ videos explaining the MinMax algorithm.
 
 **Today's Progress**: Read some articles and watched some videos. I have a lot 
 of mental fatigue today.
+
+## Day 262: September 30, 2017
+
+**Today's Progress**: Read up on npm because I kind of forgot how to use it...
