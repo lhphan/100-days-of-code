@@ -1580,3 +1580,7 @@ of mental fatigue today.
 ## Day 262: September 30, 2017
 
 **Today's Progress**: Read up on npm because I kind of forgot how to use it...
+
+## Day 263: October 01, 2017
+
+**Today's Progress**: Reviewed GitHub workflow in preparation for Hacktoberfest.
