@@ -1589,3 +1589,7 @@ of mental fatigue today.
 
 **Today's Progress**: Learned about custom shapes in Javascript and worked on the 
 [Community Clouds repo on Github](https://github.com/CodingTrain/CommunityClouds).
+
+## Day 265: October 03, 2017
+
+**Today's Progress**: Made two pull requests for Hacktoberfest. Yay!
