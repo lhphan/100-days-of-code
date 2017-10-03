@@ -1584,3 +1584,8 @@ of mental fatigue today.
 ## Day 263: October 01, 2017
 
 **Today's Progress**: Reviewed GitHub workflow in preparation for Hacktoberfest.
+
+## Day 264: October 02, 2017
+
+**Today's Progress**: Learned about custom shapes in Javascript and worked on the 
+[Community Clouds repo on Github](https://github.com/CodingTrain/CommunityClouds).
