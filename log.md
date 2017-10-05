@@ -1593,3 +1593,7 @@ of mental fatigue today.
 ## Day 265: October 03, 2017
 
 **Today's Progress**: Made two pull requests for Hacktoberfest. Yay!
+
+## Day 266: October 04, 2017
+
+**Today's Progress**: Read articles and made wireframes for portfolio.
