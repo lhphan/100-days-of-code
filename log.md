@@ -1597,3 +1597,7 @@ of mental fatigue today.
 ## Day 266: October 04, 2017
 
 **Today's Progress**: Read articles and made wireframes for portfolio.
+
+## Day 267: October 05, 2017
+
+**Today's Progress**: Read articles and started coding my portfolio splash page.
