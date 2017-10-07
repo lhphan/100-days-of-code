@@ -1601,3 +1601,7 @@ of mental fatigue today.
 ## Day 267: October 05, 2017
 
 **Today's Progress**: Read articles and started coding my portfolio splash page.
+
+## Day 268: October 06, 2017
+
+**Today's Progress**: Made two more pull requests for Hacktoberfest. Hooray!
