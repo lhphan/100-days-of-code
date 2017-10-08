@@ -1605,3 +1605,7 @@ of mental fatigue today.
 ## Day 268: October 06, 2017
 
 **Today's Progress**: Made two more pull requests for Hacktoberfest. Hooray!
+
+## Day 269: October 07, 2017
+
+**Today's Progress**: Learned how to use the Sketch App.
