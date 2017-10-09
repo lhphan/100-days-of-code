@@ -1609,3 +1609,7 @@ of mental fatigue today.
 ## Day 269: October 07, 2017
 
 **Today's Progress**: Learned how to use the Sketch App.
+
+## Day 270: October 08, 2017
+
+**Today's Progress**: Learned how to use Webpack.
