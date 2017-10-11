@@ -1617,3 +1617,8 @@ of mental fatigue today.
 ## Day 271: October 09, 2017
 
 **Today's Progress**: Continued to learn how to use Webpack.
+
+## Day 272: October 10, 2017
+
+**Today's Progress**: Continued to learn how to use Webpack by working through 
+[this article](https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-iii-d374c021f9fc).
