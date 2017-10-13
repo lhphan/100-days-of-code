@@ -1626,3 +1626,7 @@ of mental fatigue today.
 ## Day 273: October 11, 2017
 
 **Today's Progress**: Finished tutorial on Webpack.
+
+## Day 274: October 12, 2017
+
+**Today's Progress**: Watched more tutorials on Webpack.
