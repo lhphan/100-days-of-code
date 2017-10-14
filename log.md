@@ -1630,3 +1630,8 @@ of mental fatigue today.
 ## Day 274: October 12, 2017
 
 **Today's Progress**: Watched more tutorials on Webpack.
+
+## Day 275: October 13, 2017
+
+**Today's Progress**: Working through yet another 
+[Webpack tutorial](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/).
