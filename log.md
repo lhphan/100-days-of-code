@@ -1635,3 +1635,8 @@ of mental fatigue today.
 
 **Today's Progress**: Working through yet another 
 [Webpack tutorial](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/).
+
+## Day 276: October 14, 2017
+
+**Today's Progress**: Learned how to use GulpJS. It's so much easier 
+than Webpack.
