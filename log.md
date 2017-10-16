@@ -1640,3 +1640,7 @@ of mental fatigue today.
 
 **Today's Progress**: Learned how to use GulpJS. It's so much easier 
 than Webpack.
+
+## Day 277: October 15, 2017
+
+**Today's Progress**: Worked on setting up Webpack for my portfolio.
