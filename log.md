@@ -1643,4 +1643,8 @@ than Webpack.
 
 ## Day 277: October 15, 2017
 
-**Today's Progress**: Worked on setting up Webpack for my portfolio.
+**Today's Progress**: Worked on setting up Gulp for my portfolio.
+
+## Day 278: October 16, 2017
+
+**Today's Progress**: Added CSS plugins to my Gulp workflow.
