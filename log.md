@@ -1648,3 +1648,7 @@ than Webpack.
 ## Day 278: October 16, 2017
 
 **Today's Progress**: Added CSS plugins to my Gulp workflow.
+
+## Day 279: October 17, 2017
+
+**Today's Progress**: Got BrowserSync to work with Gulp.
