@@ -1652,3 +1652,8 @@ than Webpack.
 ## Day 279: October 17, 2017
 
 **Today's Progress**: Got BrowserSync to work with Gulp.
+
+## Day 280: October 19, 2017
+
+**Today's Progress**: Worked on my splash page. I don't know what 
+I'm doing.
