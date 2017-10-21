@@ -1657,3 +1657,8 @@ than Webpack.
 
 **Today's Progress**: Worked on my splash page. I don't know what 
 I'm doing.
+
+## Day 281: October 20, 2017
+
+**Today's Progress**: Adjusted my Gulp workflow and continued to work 
+on my splash page.
