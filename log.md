@@ -1662,3 +1662,7 @@ I'm doing.
 
 **Today's Progress**: Adjusted my Gulp workflow and continued to work 
 on my splash page.
+
+## Day 282: October 21, 2017
+
+**Today's Progress**: Learned how to use Bower, kind of.
