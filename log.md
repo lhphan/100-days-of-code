@@ -1666,3 +1666,8 @@ on my splash page.
 ## Day 282: October 21, 2017
 
 **Today's Progress**: Learned how to use Bower, kind of.
+
+## Day 283: October 22, 2017
+
+**Today's Progress**: Incorporated an SVG background to my splash 
+page. Also worked on the layout.
