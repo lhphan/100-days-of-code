@@ -1671,3 +1671,7 @@ on my splash page.
 
 **Today's Progress**: Incorporated an SVG background to my splash 
 page. Also worked on the layout.
+
+## Day 284: October 23, 2017
+
+**Today's Progress**: Adjusted media queries to my splash page.
