@@ -1675,3 +1675,8 @@ page. Also worked on the layout.
 ## Day 284: October 23, 2017
 
 **Today's Progress**: Adjusted media queries to my splash page.
+
+## Day 285: October 24, 2017
+
+**Today's Progress**: Made updates to my splash page and read up on 
+Bootstrap 4.
