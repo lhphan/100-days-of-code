@@ -1680,3 +1680,8 @@ page. Also worked on the layout.
 
 **Today's Progress**: Made updates to my splash page and read up on 
 Bootstrap 4.
+
+## Day 286: October 25, 2017
+
+**Today's Progress**: Finished reading the [article about Bootstrao 4](
+https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784).
