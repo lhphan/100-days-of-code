@@ -1685,3 +1685,7 @@ Bootstrap 4.
 
 **Today's Progress**: Finished reading the [article about Bootstrao 4](
 https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784).
+
+## Day 287: October 26, 2017
+
+**Today's Progress**: Read articles about SVG and flexbox.
