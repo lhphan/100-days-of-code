@@ -1689,3 +1689,7 @@ https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f
 ## Day 287: October 26, 2017
 
 **Today's Progress**: Read articles about SVG and flexbox.
+
+## Day 288: October 27, 2017
+
+**Today's Progress**: Watched videos on Wordpress theme development.
