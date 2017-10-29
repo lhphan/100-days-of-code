@@ -1693,3 +1693,8 @@ https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f
 ## Day 288: October 27, 2017
 
 **Today's Progress**: Watched videos on Wordpress theme development.
+
+## Day 289: October 28, 2017
+
+**Today's Progress**: Started course on Lynda.com for Wordpress theme 
+development with Underscores.
