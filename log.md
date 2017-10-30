@@ -1698,3 +1698,8 @@ https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f
 
 **Today's Progress**: Started course on Lynda.com for Wordpress theme 
 development with Underscores.
+
+## Day 290: October 29, 2017
+
+**Today's Progress**: Tried to set up Gulp for my local Wordpress 
+development. Did not suceed.
