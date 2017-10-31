@@ -1703,3 +1703,8 @@ development with Underscores.
 
 **Today's Progress**: Tried to set up Gulp for my local Wordpress 
 development. Did not suceed.
+
+## Day 291: October 30, 2017
+
+**Today's Progress**: Was able to debug Gulp configuration. Customized 
+underscores CSS.
