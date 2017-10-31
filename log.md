@@ -1708,3 +1708,9 @@ development. Did not suceed.
 
 **Today's Progress**: Was able to debug Gulp configuration. Customized 
 underscores CSS.
+
+## Day 292: October 31, 2017
+
+**Today's Progress**: Watched tutorial for Underscores on Lynda.com. I 
+think the framework is too much for what I need, so I have to find 
+another solution.
