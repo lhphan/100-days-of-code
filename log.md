@@ -1714,3 +1714,7 @@ underscores CSS.
 **Today's Progress**: Watched tutorial for Underscores on Lynda.com. I 
 think the framework is too much for what I need, so I have to find 
 another solution.
+
+## Day 293: November 01, 2017
+
+**Today's Progress**: Read up on how to develop a Wordpress theme.
