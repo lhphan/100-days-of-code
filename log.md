@@ -1718,3 +1718,8 @@ another solution.
 ## Day 293: November 01, 2017
 
 **Today's Progress**: Read up on how to develop a Wordpress theme.
+
+## Day 294: November 02, 2017
+
+**Today's Progress**: Watched Wordpress video course on SitePoint and 
+reviewed Sass imports.
