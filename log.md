@@ -1723,3 +1723,7 @@ another solution.
 
 **Today's Progress**: Watched Wordpress video course on SitePoint and 
 reviewed Sass imports.
+
+## Day 295: November 03, 2017
+
+**Today's Progress**: Worked on implementing Bootstrap to Wordpress theme.
