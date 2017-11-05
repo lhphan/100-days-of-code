@@ -1727,3 +1727,7 @@ reviewed Sass imports.
 ## Day 295: November 03, 2017
 
 **Today's Progress**: Worked on implementing Bootstrap to Wordpress theme.
+
+## Day 296: November 04, 2017
+
+**Today's Progress**: Figured out why jQuery files weren't working on Wordpress.
