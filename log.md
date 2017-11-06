@@ -1731,3 +1731,7 @@ reviewed Sass imports.
 ## Day 296: November 04, 2017
 
 **Today's Progress**: Figured out why jQuery files weren't working on Wordpress.
+
+## Day 297: November 05, 2017
+
+**Today's Progress**: Figured out why the navbar was wonky.
