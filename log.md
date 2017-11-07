@@ -1735,3 +1735,7 @@ reviewed Sass imports.
 ## Day 297: November 05, 2017
 
 **Today's Progress**: Figured out why the navbar was wonky.
+
+## Day 298: November 06, 2017
+
+**Today's Progress**: Worked on navbar some more.
