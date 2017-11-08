@@ -1739,3 +1739,8 @@ reviewed Sass imports.
 ## Day 298: November 06, 2017
 
 **Today's Progress**: Worked on navbar some more.
+
+## Day 299: November 07, 2017
+
+**Today's Progress**: Learned about Sass file structures and added 
+Google fonts to Wordpress theme.
