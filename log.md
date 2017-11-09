@@ -1749,3 +1749,7 @@ Google fonts to Wordpress theme.
 
 **Today's Progress**: Updated various CSS to Wordpress theme and added 
 social media navbar.
+
+## Day 301: November 09, 2017
+
+**Today's Progress**: Implemented Advanced Custom Fields to Wordpress theme.
